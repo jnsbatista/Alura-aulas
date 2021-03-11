@@ -9,7 +9,7 @@ import { ErrorsModule } from './errors/errors.module';
 @NgModule({
   declarations: [
     AppComponent
-   ],
+  ],
   imports: [
     BrowserModule,
     PhotosModule,
